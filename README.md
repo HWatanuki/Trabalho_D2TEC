@@ -5,7 +5,7 @@ Segundo trabalho da disciplina D2TEC - Tecnologias de Big Data do curso de Espec
 - Hugo Martinelli Watanuki
 
 # ETL de dados usando infraestrutura AWS
-O objetivo deste repositório é fornecer um conjunto de instruções, arquivos de configuração e códigos para a criação de uma infraestutrura de processamento e análise de Big Data usando recursos da AWS.
+O objetivo deste repositório é fornecer um conjunto de instruções, arquivos de configuração e códigos para a criação de uma infraestutrura de processamento e análise de Big Data usando recursos da AWS. A demonstração do passo a passo completo para a construção dessa infraestrutura está disponível aqui: https://youtu.be/vlRkAsbyuNI
 
 # a) Visão geral da solução
 A solução criada foi baseada em um paradigma de microserviços em nuvem. Para isso, foram utilizados os seguintes componentes principais:
@@ -34,7 +34,7 @@ Essa base contém registros de viagens de passageiros de taxi da cidade de Nova 
 
 Para as análises foram selecionados 2 datasets correspondendo às viagens realizadas entre os meses de Janeiro e Fevereiro de 2017, bem como um dataset contendo os códigos e descrições das áreas da cidade de Nova York.
 
-Os datasets utilizados estão disponíveis aqui: 
+Os datasets utilizados estão disponíveis aqui: https://github.com/HWatanuki/Trabalho_D2TEC/tree/main/Datasets
 
 A descrição mais detalhada dos dados está disponível aqui:
 
