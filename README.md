@@ -10,10 +10,12 @@ O objetivo deste repositório é fornecer um conjunto de instruções, arquivos 
 # a) Visão geral da solução
 A solução criada foi baseada em um paradigma de microserviços em nuvem. Para isso, foram utilizados os seguintes componentes principais:
 - 1 Elastic File System (EFS): https://aws.amazon.com/efs/
-- 1 Elastic Kubernete Services (EKS): https://aws.amazon.com/eks/
+- 1 Elastic Kubernetes Services (EKS): https://aws.amazon.com/eks/
 - 1 High Performance Computing Cluster (HPCC Systems): https://hpccsystems.com/
 
 O diagrama de arquitetura AWS implementada esta disponível aqui: 
+![image](https://user-images.githubusercontent.com/50485300/200107439-bf0d4e86-3b02-4c0d-ab3d-927c3134d172.png)
+
 
 # b) Infraestrutura utilizada
 A infrastrutura foi criada na região us-east-1 e envolveu os seguintes recursos:
