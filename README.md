@@ -78,7 +78,11 @@ Visualizacao do dataset de bairros de NY bruto
 
 O tratamento e análise dos dados objetivou proporcionar a um motorista de taxi da cidade de NY insumos para uma estratégia de trabalho. 
 Para isso, uma vez tratados os dados, os mesmos serviram para um entendimento sobre o padrao das viagens ao longo dos dias e horas do mes, bem como as regioes com as viagens e gorjetas mais elevadas. 
-Por fim, uma funcao foi elaborada com base nos dados historicos medios para permitir ao motorista estimar o valor, duracao e distancia de uma viagem com base no local de embarque/desembarque, dia e hora de inicio da viagem. Os códigos utilizados para tratament e consultas dos dados estão disponíveis aqui:
+Por fim, uma funcao foi elaborada com base nos dados historicos medios para permitir ao motorista estimar o valor, duracao e distancia de uma viagem com base no local de embarque/desembarque, dia e hora de inicio da viagem. 
+
+Os códigos utilizados para tratament e consultas dos dados estão disponíveis aqui: https://github.com/HWatanuki/Trabalho_D2TEC/tree/main/Codigos
+
+A demonstração das analises está disponível aqui: https://youtu.be/Kx29WY3P9MY
 
 1) Limpeza e padronização dos dados com o objetivo de tratar os campos de data e hora, bem como alterar os tipos dos campos da tabela:
 
